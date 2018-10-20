@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Thomas Darby
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment involves the creation of a monthly expense calculator using JavaScript. It serves as a good introduction to JavaScript basics, providing practice and use of JavaScript syntax and a few basic functions.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://tgdarby.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. You can use the document.getElementById() method in JavaScript in order to interact with the HTML file by accessing the HTML element with a given ID.
+2. When requesting numeric inputs from users that will be used for calculations, the inputs must first be converted from strings to floats using the parseFloat method.
+3. Basic numeric and mathematic functions such as multiplication, division, and addition can be easily executed utilizing JavaScript.
 
 
 
